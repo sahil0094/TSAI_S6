@@ -65,7 +65,7 @@ We are using seven Convolution layer, two Max pooling layer, two Transition laye
 ![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/33fdaca8-23d3-49a1-9c54-f2a31484422b)
   
 ## Model Summary
-  
+Here we have used 18,738 parameters in total and which is aligned with constraint of using less than 20k parameters
 ![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/4650b956-b31a-41e7-91b2-017294ed6f27)
   
 ## Result
