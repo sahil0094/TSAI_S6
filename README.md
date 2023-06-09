@@ -52,7 +52,7 @@ As we increase the learning rate from 0.1 to 2 , we see that loss reduces drasti
 # TSAI_S6 - PART 2
 
 ## Objective <br>
-Achieve 99.4% or more accuracy on mnist dataset with below contraints -
+Achieve 99.4% or more accuracy on mnist dataset with below constraints -
 <li> Less than 20k parameters
 <li> Less than 20 epochs
 <li> Use Batch Normalization
