@@ -1,4 +1,4 @@
-# TSAI_S6
+# TSAI_S6 - PART 1
 
 ## Excel Screenshot
 ![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/dc2909a0-b035-4d08-96e1-cf2d5e691100)
@@ -48,3 +48,28 @@ lr=2<br>
 ![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/f912fcc9-54f8-4577-a71e-f0a68de9b843)
 
 As we increase the learning rate from 0.1 to 2 , we see that loss reduces drastically and tends to 0 in less iterations
+
+# TSAI_S6 - PART 2
+
+## Objective <br>
+Achieve 99.4% or more accuracy on mnist dataset with below contraints -
+<li> Less than 20k parameters
+<li> Less than 20 epochs
+<li> Use Batch Normalization
+<li> Use Dropout
+<li> Fully connected layer, GAP are optional
+  
+## Architecture
+We are using seven Convolution layer, two Max pooling layer, two Transition layer followed by Avg pooling layer. <br>
+
+![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/33fdaca8-23d3-49a1-9c54-f2a31484422b)
+  
+## Model Summary
+  
+![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/4650b956-b31a-41e7-91b2-017294ed6f27)
+  
+
+  
+
+
+  
