@@ -68,6 +68,9 @@ We are using seven Convolution layer, two Max pooling layer, two Transition laye
   
 ![image](https://github.com/sahil0094/TSAI_S6/assets/31719914/4650b956-b31a-41e7-91b2-017294ed6f27)
   
+## Result
+  
+We managed to achieve 99.43% accuracy on validation dataset in epoch 18 althought after that it dropped by few decimals but this was acceptable criteria for the assignment
 
   
 
